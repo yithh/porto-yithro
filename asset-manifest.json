@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yithh/porto-yithro/static/css/main.3600cfa8.css",
+    "main.js": "/yithh/porto-yithro/static/js/main.25057681.js",
+    "static/js/453.32e10078.chunk.js": "/yithh/porto-yithro/static/js/453.32e10078.chunk.js",
+    "static/media/Frame 2.png": "/yithh/porto-yithro/static/media/Frame 2.678e1a17ba7c83a85c01.png",
+    "index.html": "/yithh/porto-yithro/index.html",
+    "main.3600cfa8.css.map": "/yithh/porto-yithro/static/css/main.3600cfa8.css.map",
+    "main.25057681.js.map": "/yithh/porto-yithro/static/js/main.25057681.js.map",
+    "453.32e10078.chunk.js.map": "/yithh/porto-yithro/static/js/453.32e10078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3600cfa8.css",
+    "static/js/main.25057681.js"
+  ]
+}
