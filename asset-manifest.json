@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/yithh/porto-yithro/static/css/main.3600cfa8.css",
-    "main.js": "/yithh/porto-yithro/static/js/main.25057681.js",
-    "static/js/453.32e10078.chunk.js": "/yithh/porto-yithro/static/js/453.32e10078.chunk.js",
-    "static/media/Frame 2.png": "/yithh/porto-yithro/static/media/Frame 2.678e1a17ba7c83a85c01.png",
-    "index.html": "/yithh/porto-yithro/index.html",
-    "main.3600cfa8.css.map": "/yithh/porto-yithro/static/css/main.3600cfa8.css.map",
-    "main.25057681.js.map": "/yithh/porto-yithro/static/js/main.25057681.js.map",
-    "453.32e10078.chunk.js.map": "/yithh/porto-yithro/static/js/453.32e10078.chunk.js.map"
+    "main.css": "/porto-yithro/static/css/main.13c34161.css",
+    "main.js": "/porto-yithro/static/js/main.534b0f74.js",
+    "static/js/453.32e10078.chunk.js": "/porto-yithro/static/js/453.32e10078.chunk.js",
+    "static/media/BTT1-3.png": "/porto-yithro/static/media/BTT1-3.4ab931b492b5407043bb.png",
+    "static/media/BTT1-2.png": "/porto-yithro/static/media/BTT1-2.6d55be5f25bac04d26c5.png",
+    "static/media/BTT1-1.png": "/porto-yithro/static/media/BTT1-1.480d4bb04b91feb5ef4c.png",
+    "static/media/BTT-2.png": "/porto-yithro/static/media/BTT-2.7bd3299bf96a6e3ca762.png",
+    "static/media/BTT2-2.png": "/porto-yithro/static/media/BTT2-2.2b619f2305c0f6320015.png",
+    "static/media/profpic.png": "/porto-yithro/static/media/profpic.678e1a17ba7c83a85c01.png",
+    "static/media/BTT-1.png": "/porto-yithro/static/media/BTT-1.cde4810431357cef7090.png",
+    "static/media/BTT2-1.png": "/porto-yithro/static/media/BTT2-1.9e5aa8c76f520b7c38ec.png",
+    "static/media/CSR-2.png": "/porto-yithro/static/media/CSR-2.7e9bf4d92b9fb0146fe3.png",
+    "static/media/CSR-1.png": "/porto-yithro/static/media/CSR-1.67a73df6086b6a57ec3b.png",
+    "index.html": "/porto-yithro/index.html",
+    "main.13c34161.css.map": "/porto-yithro/static/css/main.13c34161.css.map",
+    "main.534b0f74.js.map": "/porto-yithro/static/js/main.534b0f74.js.map",
+    "453.32e10078.chunk.js.map": "/porto-yithro/static/js/453.32e10078.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3600cfa8.css",
-    "static/js/main.25057681.js"
+    "static/css/main.13c34161.css",
+    "static/js/main.534b0f74.js"
   ]
 }
